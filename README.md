@@ -1,1 +1,6 @@
-This is a React Starter Project for use in Stephen Grider's courses on Udemy.
+# React JS
+
+## Searching images
+
+- How comunicate from child to parent
+- Use axios to fetch data
